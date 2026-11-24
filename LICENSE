@@ -1,0 +1,38 @@
+ツナグ（Tsunagu）ソフトウェア使用許諾（フリーウェア）
+Tsunagu — Freeware License
+
+Copyright © 2026 HitoYuka. All rights reserved.
+
+本ソフトウェア「ツナグ（Tsunagu）」は、HitoYuka が無償で提供するフリーウェアです。
+以下の条件に同意する場合に限り、利用できます。
+
+1. 利用
+   個人・法人を問わず、本ソフトウェアを無償でインストールし、利用できます。
+
+2. 再配布
+   本ソフトウェアを改変せず、本使用許諾を付したまま配布する場合に限り、再配布を許可します。
+   有償での再配布、改変版の配布、本体の切り売りは許可しません。
+
+3. 権利
+   本ソフトウェア（アイコン・画像・キャラクター等の制作物を含む）の著作権その他の権利は
+   HitoYuka に帰属します。本使用許諾は、所有権や上記以外の権利を移転するものではありません。
+
+4. 無保証・免責
+   本ソフトウェアは「現状有姿」で提供され、商品性・特定目的適合性を含め、明示黙示を問わず
+   いかなる保証もありません。本ソフトウェアの使用または使用不能から生じるいかなる損害についても、
+   HitoYuka は責任を負いません。リモート接続の設定・資格情報・ネットワークの管理は利用者の責任で行ってください。
+
+5. 第三者ソフトウェア
+   本ソフトウェアは Qt（PySide6）を GNU Lesser General Public License v3（LGPLv3）の下で利用し、
+   同梱しています。Qt ライブラリは差し替え（再リンク）が可能な形で同梱しており、詳細および入手先は
+   同梱の THIRD-PARTY-NOTICES.md を参照してください。本項は第5項までの条件に優先します。
+
+---
+
+This software "Tsunagu" is freeware provided by HitoYuka, free of charge.
+You may install and use it for personal or commercial purposes at no cost.
+Redistribution is permitted only unmodified and with this license included; paid
+redistribution and modified builds are not permitted. All rights in the software
+(including artwork and characters) remain with HitoYuka. THE SOFTWARE IS PROVIDED
+"AS IS", WITHOUT WARRANTY OF ANY KIND. It bundles Qt (via PySide6) under the GNU
+LGPLv3 with the ability to relink; see THIRD-PARTY-NOTICES.md.
